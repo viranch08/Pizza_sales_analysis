@@ -43,10 +43,6 @@ This Power BI dashboard presents a detailed analysis of pizza sales data to help
 
 ![Dashboard Preview - Main Page]([images/pizza_dashboard_main.png](https://github.com/viranch08/Pizza_sales_analysis/blob/main/Pizza%20Sales%20Analysis.png))
 ![Dashboard Preview - Tooltip](https://github.com/viranch08/Pizza_sales_analysis/blob/main/Detailed%20View.png)
-![Dashboard Preview - Detailed View]()
+![Dashboard Preview - Detailed View](https://github.com/viranch08/Pizza_sales_analysis/blob/main/Tool%20Tip.png)
 
-## 🧠 Future Enhancements
 
-- Add ingredient-level analysis
-- Integrate customer feedback data
-- Compare store-wise performance (if data available)
