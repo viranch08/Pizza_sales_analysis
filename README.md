@@ -37,15 +37,11 @@ This Power BI dashboard presents a detailed analysis of pizza sales data to help
 - Marketing teams identifying sales trends and customer preferences.
 - Business analysts optimizing pricing and inventory.
 
-## 🚀 Getting Started
 
-1. Clone the repository
-2. Open the `.pbix` file using Power BI Desktop
-3. Explore, filter, and interact with the visualizations
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview - Main Page](images/pizza_dashboard_main.png)
+![Dashboard Preview - Main Page]([images/pizza_dashboard_main.png](https://github.com/viranch08/Pizza_sales_analysis/blob/main/Pizza%20Sales%20Analysis.png))
 ![Dashboard Preview - Tooltip](images/pizza_dashboard_tooltip.png)
 
 ## 🧠 Future Enhancements
